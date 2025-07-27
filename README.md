@@ -80,7 +80,7 @@ The Universal Python Unit Test Generator is an advanced AI agent that automatica
 ### **Quick Install**
 ```bash
 # Clone or download the script
-curl -O https://raw.githubusercontent.com/your-repo/testgen.py
+curl -O https://raw.githubusercontent.com/darshan45672/Universal-Python-Unit-Test-Case-generator/testgen.py
 
 # Install dependencies
 pip install requests pytest
@@ -106,7 +106,7 @@ source venv/bin/activate  # Linux/Mac
 pip install requests pytest openai google-generativeai anthropic
 
 # Download the main script
-curl -O https://raw.githubusercontent.com/your-repo/testgen.py
+curl -O https://raw.githubusercontent.com/darshan45672/Universal-Python-Unit-Test-Case-generator/testgen.py
 ```
 
 ### **Verify Installation**
